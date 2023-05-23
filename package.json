@@ -106,9 +106,9 @@
     "transition",
     "ui"
   ],
-  "author": [
-    "nkbt",
-    "chenglou"
+  "contributors": [
+    {"name" : "nkbt"},
+    {"name" : "chenglou"}
   ],
   "license": "MIT",
   "dependencies": {
